@@ -1,4 +1,9 @@
 # Python-Based-Network-Ping-Sweeper
+
+The primary purpose of the code is to perform a ping sweep, which means it sends a single ping packet (ping -c 1) to each host within the specified IP range to check if the hosts are reachable.
+
+Here is a breakdown I created with the help of ChatGPT 3.5 of what each line of this code means.
+
 ```python
 import subprocess
 ```
