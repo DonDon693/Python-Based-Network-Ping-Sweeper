@@ -1,6 +1,6 @@
 # Python-Based-Network-Ping-Sweeper
 
-The primary purpose of the code is to perform a ping sweep, which means it sends a single ping packet (ping -c 1) to each host within the specified IP range to check if the hosts are reachable.
+The primary purpose of the code is to perform a ping sweep, which literally means all it does is send a single ping packet (ping -c 1) to each host within the specified IP range to check if the hosts are reachable. For this example we used the ol' reliable IP Adresses ranges of 192.168.1.1 through 192.168.1.254 which are commonly used for local networks.
 
 Here is a breakdown I created with the help of ChatGPT 3.5 of what each line of this code means.
 
