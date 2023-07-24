@@ -1,5 +1,5 @@
-```python
-
+# The comments are supposed to give a small idea of each line of code but 
+# for the better and larger explination go to the README.md file where I used ChatGPT to explain better.
 import subprocess
 
 def ping_host(ip):
