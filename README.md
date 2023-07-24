@@ -89,4 +89,4 @@ if __name__ == "__main__":
 ```
 This block of code checks whether the script is being run directly (as opposed to being imported as a module). If it is the main script being run, it calls the `main()` function to start the ping sweep.
 
-I hope this detailed explanation helps you understand each part of the code. Python is a powerful and versatile language, and learning it will open up numerous possibilities in various fields, including cybersecurity. Feel free to experiment with the code and modify it to suit your needs as you continue your Python journey!
+That's it folks I'd like to think you got it by now, and even more, that it's an employer looking at this and saying sheesh let's hire this dude lol.
